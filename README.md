@@ -66,3 +66,5 @@ SkillMatch-JS/
 │       └── SkillMatch_JS.mp4
 
 ---
+
+Autor: Gabriel Carlos de Souza
