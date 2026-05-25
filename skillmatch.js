@@ -139,7 +139,7 @@ console.log(
 );
 
 // ==========================================
-// ARRAY DE VAGAS
+// ARRAY DE VAGAS - Sistema de Compatibilidade
 // ==========================================
 
 const vagas = [
