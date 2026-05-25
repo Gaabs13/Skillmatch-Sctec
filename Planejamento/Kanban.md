@@ -3,6 +3,7 @@
 > Projeto desenvolvido para o **SCtec**  
 > Simulador de compatibilidade entre candidatos e vagas fictícias de Front-End Júnior utilizando JavaScript.
 
+> Autor: Gabriel Carlos de Souza
 ---
 
 # 🎯 STATUS GERAL DO PROJETO
