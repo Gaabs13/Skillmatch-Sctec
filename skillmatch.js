@@ -206,7 +206,7 @@ const vagas = [
 ];
 
 // ==========================================
-// MAP
+// MAP - Empresas Cadastradas
 // ==========================================
 
 const nomesEmpresas = vagas.map(
