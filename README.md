@@ -1,6 +1,5 @@
 # Mini-Projeto Avaliativo SCtec
-
-## SkillMatch JS: Simulador de Compatibilidade de Vagas
+SkillMatch JS: Simulador de Compatibilidade de Vagas
 
 
 
