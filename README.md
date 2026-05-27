@@ -2,7 +2,6 @@
 
 ## SkillMatch JS: Simulador de Compatibilidade de Vagas
 
----
 
 
 ## 📘 Sobre o Projeto
@@ -13,7 +12,6 @@ O sistema compara as habilidades informadas pelo candidato com os requisitos de 
 
 Este projeto foi desenvolvido como atividade prática da trilha **Fundamentos da Programação com JavaScript**, aplicando conceitos essenciais de lógica de programação, manipulação de arrays e objetos, funções, estruturas condicionais e assíncronas.
 
----
 
 # 🎯 Objetivos do Projeto
 
@@ -23,7 +21,6 @@ Este projeto foi desenvolvido como atividade prática da trilha **Fundamentos da
 - Praticar organização e estruturação de código;
 - Demonstrar conceitos de programação assíncrona.
 
----
 
 # 🛠️ Tecnologias Utilizadas
 
@@ -38,7 +35,6 @@ Este projeto foi desenvolvido como atividade prática da trilha **Fundamentos da
 - Async/Await
 - Simulação de API/Servidor
 
----
 
 # ⚙️ Funcionalidades
 
@@ -49,7 +45,6 @@ Este projeto foi desenvolvido como atividade prática da trilha **Fundamentos da
 ✅ Recomendações de estudo personalizadas  
 ✅ Simulação de resposta assíncrona de servidor  
 
----
 
 # 📂 Estrutura do Projeto
 
